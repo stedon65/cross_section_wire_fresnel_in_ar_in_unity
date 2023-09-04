@@ -17,3 +17,6 @@ Le sezioni, quindi, permettono di visualizzare l'interno del modello utilizzando
 La modalità Wire, in blu, permette di esplorare l'iterno continuando a vedere  la triangolazione della mesh di superfice del modello.
 La modalità Fresnel, in rosso, permette di esplorare il modello interno rispetto all'angolo di incidenza della camera creando un effetto di trasparenza.
 
+### Video
+
+[![](https://dl.dropboxusercontent.com/scl/fi/9tuy34ezlw1rn6iqstwii/ar_urp_crosssection.png?rlkey=a6zgcde7u3zvipjql1v0361v2&dl=1)](https://dl.dropboxusercontent.com/scl/fi/jx8vq754t10ce99agtty8/ar_urp_crosssection.mp4?rlkey=8aoicmbsd50h06f41m04w28kd&dl=0)
